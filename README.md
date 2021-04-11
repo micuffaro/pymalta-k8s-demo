@@ -1,10 +1,10 @@
 # pymalta-k8s-demo
-A demo of a kubernetes deployment of a bookstore web application written in Django, Vue.js with a postgres backend.
+A demo of a kubernetes deployment of a note taking web application written in Django, Vue.js with a postgres backend.
 
 ## TODO
 - [X] Setup Django + backend
 - [X] Design object relations
-- [ ] DRF to expose models instead of urls
+- [X] DRF to expose models instead of urls
 - [ ] Switch database to Postgres
 - [ ] Docker for backend and DB
 - [ ] Simple vue app to crudely show things from the backend
